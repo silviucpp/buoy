@@ -6,8 +6,8 @@
  {<<"granderl">>,{pkg,<<"granderl">>,<<"0.1.5">>},1},
  {<<"metal">>,{pkg,<<"metal">>,<<"0.1.1">>},1},
  {<<"shackle">>,
-  {git,"https://github.com/lpgauth/shackle.git",
-       {ref,"9106af7a01883f0160d3235662fa6c712f4ce326"}},
+  {git,"https://github.com/silviucpp/shackle.git",
+       {ref,"44182555f7bf78b80e76f3d9027c4ebca61b22a3"}},
   0}]}.
 [
 {pkg_hash,[
